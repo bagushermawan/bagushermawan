@@ -1,9 +1,9 @@
 
 <h1 align="center">Welcome to my profile! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px"></h1>
-<p align="center">
-<!--   <img src="https://i.ibb.co/WDPCQ3X/hm.jpg" /> -->
+<!-- <p align="center">
+  <img src="https://i.ibb.co/WDPCQ3X/hm.jpg" />
 </p>
-<br>
+<br> -->
 <h2 align="left">
 <img src="https://readme-typing-svg.herokuapp.com?color=%231586B1&size=25&center=true&vCenter=true&lines=Hi+there!%2C+I'm+Baher">
 </h2>
