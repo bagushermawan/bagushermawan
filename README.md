@@ -15,7 +15,7 @@
 - 📝 I'm currently working on **anything**.
 
 - 👥 Looking for experience on **ma layf**.
-<br>
+<!-- <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
+-->
 <h2 align="left">
 Github Stats  
 </h2>
