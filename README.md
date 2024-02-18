@@ -32,7 +32,7 @@ Github Stats
 </p>
 <br> -->
 <p align="left">
-  <a href="https://github.com/bagushermawan"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bagushermawan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/bagushermawan"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bagusheawrmawan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 
